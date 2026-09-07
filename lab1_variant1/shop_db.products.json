@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966ac6"
+  },
+  "productId": 101,
+  "name": "Laptop Lenovo",
+  "category": "Laptop",
+  "price": 400000,
+  "stock": 20,
+  "characteristics": {
+    "cpu": "Intel Core i7",
+    "ram": 16,
+    "ssd": 512
+  },
+  "tags": [
+    "notebook",
+    "office",
+    "programming",
+    "new"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966ac7"
+  },
+  "productId": 102,
+  "name": "Laptop HP",
+  "category": "Laptop",
+  "price": 350000,
+  "stock": 15,
+  "characteristics": {
+    "cpu": "Intel Core i5",
+    "ram": 16,
+    "ssd": 512
+  },
+  "tags": [
+    "notebook",
+    "office"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966ac8"
+  },
+  "productId": 103,
+  "name": "iPhone 15",
+  "category": "Smartphone",
+  "price": 380000,
+  "stock": 20,
+  "characteristics": {
+    "cpu": "A16",
+    "ram": 6,
+    "ssd": 128
+  },
+  "tags": [
+    "phone",
+    "apple"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966ac9"
+  },
+  "productId": 104,
+  "name": "Samsung Galaxy S24",
+  "category": "Smartphone",
+  "price": 320000,
+  "stock": 12,
+  "characteristics": {
+    "cpu": "Snapdragon 8 Gen 3",
+    "ram": 8,
+    "ssd": 256
+  },
+  "tags": [
+    "phone",
+    "android"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966aca"
+  },
+  "productId": 105,
+  "name": "iPad Air",
+  "category": "Tablet",
+  "price": 280000,
+  "stock": 8,
+  "characteristics": {
+    "cpu": "M2",
+    "ram": 8,
+    "ssd": 128
+  },
+  "tags": [
+    "tablet",
+    "apple"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966acb"
+  },
+  "productId": 106,
+  "name": "MacBook Air",
+  "category": "Laptop",
+  "price": 550000,
+  "stock": 12,
+  "characteristics": {
+    "cpu": "M3",
+    "ram": 16,
+    "ssd": 512
+  },
+  "tags": [
+    "notebook",
+    "apple",
+    "programming"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966acc"
+  },
+  "productId": 107,
+  "name": "Xiaomi 14",
+  "category": "Smartphone",
+  "price": 250000,
+  "stock": 25,
+  "characteristics": {
+    "cpu": "Snapdragon 8 Gen 3",
+    "ram": 12,
+    "ssd": 256
+  },
+  "tags": [
+    "phone",
+    "android"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966acd"
+  },
+  "productId": 108,
+  "name": "Monitor LG",
+  "category": "Monitor",
+  "price": 180000,
+  "stock": 14,
+  "characteristics": {
+    "cpu": "N/A",
+    "ram": 0,
+    "ssd": 0
+  },
+  "tags": [
+    "monitor",
+    "office"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7d74b6e9fb8cd5966ace"
+  },
+  "productId": 109,
+  "name": "Keyboard Logitech",
+  "category": "Keyboard",
+  "price": 35000,
+  "stock": 30,
+  "characteristics": {
+    "cpu": "N/A",
+    "ram": 0,
+    "ssd": 0
+  },
+  "tags": [
+    "keyboard",
+    "office"
+  ]
+}]
