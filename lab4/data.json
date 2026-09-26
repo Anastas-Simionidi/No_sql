@@ -1,0 +1,24 @@
+{
+  "products": [
+    { "productId": 101, "name": "Laptop Lenovo", "category": "Notebook", "price": 420000, "stock": 15, "rating": 4.7, "tags": ["office", "programming"] },
+    { "productId": 102, "name": "Laptop ASUS", "category": "Notebook", "price": 520000, "stock": 8, "rating": 4.8, "tags": ["gaming", "programming"] },
+    { "productId": 103, "name": "Phone Samsung", "category": "Smartphone", "price": 310000, "stock": 25, "rating": 4.6, "tags": ["mobile", "android"] },
+    { "productId": 104, "name": "Phone Apple", "category": "Smartphone", "price": 650000, "stock": 12, "rating": 4.9, "tags": ["mobile", "ios"] },
+    { "productId": 105, "name": "Tablet iPad", "category": "Tablet", "price": 280000, "stock": 10, "rating": 4.7, "tags": ["mobile", "ios"] },
+    { "productId": 106, "name": "Monitor Dell", "category": "Accessories", "price": 150000, "stock": 20, "rating": 4.5, "tags": ["office", "display"] },
+    { "productId": 107, "name": "Keyboard Keychron", "category": "Accessories", "price": 45000, "stock": 35, "rating": 4.9, "tags": ["gaming", "office"] },
+    { "productId": 108, "name": "Mouse Logitech", "category": "Accessories", "price": 25000, "stock": 50, "rating": 4.8, "tags": ["gaming", "office"] },
+    { "productId": 109, "name": "Laptop HP", "category": "Notebook", "price": 380000, "stock": 5, "rating": 4.3, "tags": ["office"] },
+    { "productId": 110, "name": "Phone Xiaomi", "category": "Smartphone", "price": 190000, "stock": 30, "rating": 4.4, "tags": ["mobile", "android"] }
+  ],
+  "customers": [
+    { "customerId": 501, "name": "Aidar" },
+    { "customerId": 502, "name": "Dana" },
+    { "customerId": 503, "name": "Timur" }
+  ],
+  "orders": [
+    { "orderId": "ORD-1", "customerId": 501, "total": 420000, "status": "paid" },
+    { "orderId": "ORD-2", "customerId": 501, "total": 25000, "status": "paid" },
+    { "orderId": "ORD-3", "customerId": 502, "total": 310000, "status": "new" }
+  ]
+}
