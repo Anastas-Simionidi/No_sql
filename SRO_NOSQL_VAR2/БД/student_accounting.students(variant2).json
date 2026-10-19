@@ -1,0 +1,583 @@
+[{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fb8"
+  },
+  "student_no": "IS-2022-001",
+  "full_name": "Алексеев Артём",
+  "email": "student01@univ.local",
+  "phone": "+7-900-100-10-00",
+  "birth_date": {
+    "$date": "2003-01-01T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "academic_leave",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 1",
+    "emergency_contact": {
+      "name": "Алексеев А.",
+      "phone": "+7-900-200-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fb9"
+  },
+  "student_no": "IS-2023-002",
+  "full_name": "Борисова Анна",
+  "email": "student02@univ.local",
+  "phone": "+7-900-101-11-01",
+  "birth_date": {
+    "$date": "2004-02-02T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 2",
+    "emergency_contact": {
+      "name": "Борисова А.",
+      "phone": "+7-900-201-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fba"
+  },
+  "student_no": "IS-2024-003",
+  "full_name": "Волков Борис",
+  "email": "student03@univ.local",
+  "phone": "+7-900-102-12-02",
+  "birth_date": {
+    "$date": "2005-03-03T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 3",
+    "emergency_contact": {
+      "name": "Волков Б.",
+      "phone": "+7-900-202-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fbb"
+  },
+  "student_no": "IS-2022-004",
+  "full_name": "Григорьева Белла",
+  "email": "student04@univ.local",
+  "phone": "+7-900-103-13-03",
+  "birth_date": {
+    "$date": "2003-04-04T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 4",
+    "emergency_contact": {
+      "name": "Григорьева Б.",
+      "phone": "+7-900-203-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fbc"
+  },
+  "student_no": "IS-2023-005",
+  "full_name": "Дмитриев Виктор",
+  "email": "student05@univ.local",
+  "phone": "+7-900-104-14-04",
+  "birth_date": {
+    "$date": "2004-05-05T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 5",
+    "emergency_contact": {
+      "name": "Дмитриев В.",
+      "phone": "+7-900-204-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fbd"
+  },
+  "student_no": "IS-2024-006",
+  "full_name": "Егорова Вера",
+  "email": "student06@univ.local",
+  "phone": "+7-900-105-15-05",
+  "birth_date": {
+    "$date": "2005-06-06T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 6",
+    "emergency_contact": {
+      "name": "Егорова В.",
+      "phone": "+7-900-205-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fbe"
+  },
+  "student_no": "IS-2022-007",
+  "full_name": "Жуков Глеб",
+  "email": "student07@univ.local",
+  "phone": "+7-900-106-16-06",
+  "birth_date": {
+    "$date": "2003-07-07T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 7",
+    "emergency_contact": {
+      "name": "Жуков Г.",
+      "phone": "+7-900-206-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fbf"
+  },
+  "student_no": "IS-2023-008",
+  "full_name": "Зайцева Галина",
+  "email": "student08@univ.local",
+  "phone": "+7-900-107-17-07",
+  "birth_date": {
+    "$date": "2004-08-08T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 8",
+    "emergency_contact": {
+      "name": "Зайцева Г.",
+      "phone": "+7-900-207-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc0"
+  },
+  "student_no": "IS-2024-009",
+  "full_name": "Ильин Даниил",
+  "email": "student09@univ.local",
+  "phone": "+7-900-108-18-08",
+  "birth_date": {
+    "$date": "2005-09-09T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 9",
+    "emergency_contact": {
+      "name": "Ильин Д.",
+      "phone": "+7-900-208-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc1"
+  },
+  "student_no": "IS-2022-010",
+  "full_name": "Кириллова Дарья",
+  "email": "student10@univ.local",
+  "phone": "+7-900-109-19-09",
+  "birth_date": {
+    "$date": "2003-10-10T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 2,
+  "status": "academic_leave",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 10",
+    "emergency_contact": {
+      "name": "Кириллова Д.",
+      "phone": "+7-900-209-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc2"
+  },
+  "student_no": "IS-2023-011",
+  "full_name": "Лебедев Егор",
+  "email": "student11@univ.local",
+  "phone": "+7-900-110-20-10",
+  "birth_date": {
+    "$date": "2004-11-11T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 11",
+    "emergency_contact": {
+      "name": "Лебедев Е.",
+      "phone": "+7-900-210-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc3"
+  },
+  "student_no": "IS-2024-012",
+  "full_name": "Макарова Елена",
+  "email": "student12@univ.local",
+  "phone": "+7-900-111-21-11",
+  "birth_date": {
+    "$date": "2005-12-12T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 12",
+    "emergency_contact": {
+      "name": "Макарова Е.",
+      "phone": "+7-900-211-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc4"
+  },
+  "student_no": "IS-2022-013",
+  "full_name": "Никитин Иван",
+  "email": "student13@univ.local",
+  "phone": "+7-900-112-22-12",
+  "birth_date": {
+    "$date": "2003-01-13T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 13",
+    "emergency_contact": {
+      "name": "Никитин И.",
+      "phone": "+7-900-212-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc5"
+  },
+  "student_no": "IS-2023-014",
+  "full_name": "Орлова Жанна",
+  "email": "student14@univ.local",
+  "phone": "+7-900-113-23-13",
+  "birth_date": {
+    "$date": "2004-02-14T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 14",
+    "emergency_contact": {
+      "name": "Орлова Ж.",
+      "phone": "+7-900-213-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc6"
+  },
+  "student_no": "IS-2024-015",
+  "full_name": "Павлов Кирилл",
+  "email": "student15@univ.local",
+  "phone": "+7-900-114-24-14",
+  "birth_date": {
+    "$date": "2005-03-15T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 15",
+    "emergency_contact": {
+      "name": "Павлов К.",
+      "phone": "+7-900-214-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc7"
+  },
+  "student_no": "IS-2022-016",
+  "full_name": "Романова Ирина",
+  "email": "student16@univ.local",
+  "phone": "+7-900-115-25-15",
+  "birth_date": {
+    "$date": "2003-04-16T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 16",
+    "emergency_contact": {
+      "name": "Романова И.",
+      "phone": "+7-900-215-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc8"
+  },
+  "student_no": "IS-2023-017",
+  "full_name": "Сидоров Лев",
+  "email": "student17@univ.local",
+  "phone": "+7-900-116-26-16",
+  "birth_date": {
+    "$date": "2004-05-17T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 17",
+    "emergency_contact": {
+      "name": "Сидоров Л.",
+      "phone": "+7-900-216-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fc9"
+  },
+  "student_no": "IS-2024-018",
+  "full_name": "Тихонова Ксения",
+  "email": "student18@univ.local",
+  "phone": "+7-900-117-27-17",
+  "birth_date": {
+    "$date": "2005-06-18T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 18",
+    "emergency_contact": {
+      "name": "Тихонова К.",
+      "phone": "+7-900-217-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fca"
+  },
+  "student_no": "IS-2022-019",
+  "full_name": "Ушаков Марк",
+  "email": "student19@univ.local",
+  "phone": "+7-900-118-28-18",
+  "birth_date": {
+    "$date": "2003-07-19T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "academic_leave",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 19",
+    "emergency_contact": {
+      "name": "Ушаков М.",
+      "phone": "+7-900-218-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad4e4ce9f48182ac9000fcb"
+  },
+  "student_no": "IS-2023-020",
+  "full_name": "Фёдорова Людмила",
+  "email": "student20@univ.local",
+  "phone": "+7-900-119-29-19",
+  "birth_date": {
+    "$date": "2004-08-20T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г. Москва, ул. Примерная, д. 20",
+    "emergency_contact": {
+      "name": "Фёдорова Л.",
+      "phone": "+7-900-219-00-00"
+    }
+  },
+  "created_at": {
+    "$date": "2025-02-01T09:00:00.000Z"
+  },
+  "Address": "Адресс проживания",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad5e7c49699f89f7f2fc141"
+  },
+  "student_no": "IS-2024-777",
+  "full_name": "Симиониди Анастас",
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad5e7e79699f89f7f2fc142"
+  },
+  "admission_date": null
+},
+{
+  "_id": {
+    "$oid": "6ad5eba68f6ed40813bdc370"
+  },
+  "student_no": "IS-2025-232",
+  "full_name": "Иванов Иван",
+  "email": "student21@univ.local",
+  "phone": "+7-900-111-22-33",
+  "birth_date": {
+    "$date": "2004-05-15T00:00:00.000Z"
+  },
+  "program": "Информационные системы",
+  "year": 3,
+  "status": "active",
+  "contacts": {
+    "address": "г.Москва, ул.Новая, д.5 ",
+    "emergency_contact": {
+      "name": "Иванов А.А",
+      "phone": "+7-900-444-55-66"
+    }
+  },
+  "created_at": {
+    "$date": "2026-10-19T10:06:30.910Z"
+  },
+  "Address": "Пушкино,88/5",
+  "admission_date": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  }
+}]
